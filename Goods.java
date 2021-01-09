@@ -1,5 +1,9 @@
 package com.java.model;
-
+/**
+ * 商品类
+ * @author 86184
+ *
+ */
 public class Goods {
 	private int id;//编号
 	private String goodsName; //货品名

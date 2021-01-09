@@ -1,5 +1,9 @@
 package com.java.model;
-
+/**
+ * 管理员类
+ * @author 86184
+ *
+ */
 public class User1 {
 	private int id;
 	private String userName;

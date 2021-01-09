@@ -1,5 +1,9 @@
 package com.java.model;
-
+/**
+ * 商品类别类
+ * @author 86184
+ *
+ */
 public class GoodsType {
 	private int id;
 	private String goodsType;
